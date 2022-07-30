@@ -13,6 +13,8 @@
 
 ## 📝 Description
 
+{{cookiecutter.description}}
+
 ## 📦 Installation
 
 ### Development setup
