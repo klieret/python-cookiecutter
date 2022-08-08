@@ -4,7 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- [![Documentation Status](https://readthedocs.org/projects/{{cookiecutter.project_name}}/badge/?version=latest)](https://{{cookiecutter.project_name}}.readthedocs.io/) -->
 <!-- [![Pypi status](https://badge.fury.io/py/{{cookiecutter.project_name}}.svg)](https://pypi.org/project/{{cookiecutter.project_name}}/) -->
-[![gh actions]({{cookiecutter.url}}/workflows/test/badge.svg)]({{cookiecutter.url}}/actions)
+[![gh actions](https://github.com/{{cookiecutter.project_name}}/actions/workflows/test.yaml/badge.svg)]({{cookiecutter.url}}/actions)
 [![Coveralls](https://coveralls.io/repos/github/klieret/{{cookiecutter.project_name}}/badge.svg?branch=main)](https://coveralls.io/github/klieret/{{cookiecutter.project_name}}?branch=main)
 [![gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev)
 [![License](https://img.shields.io/github/license/klieret/{{cookiecutter.project_name}}.svg)]({{cookiecutter.url}}/blob/master/LICENSE.txt)
