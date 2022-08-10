@@ -42,6 +42,6 @@ repos:
     rev: v2.37.2
     hooks:
       - id: pyupgrade
-
+        args: ["--py37-plus"]
 ci:
   autoupdate_schedule: monthly
