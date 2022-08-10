@@ -22,6 +22,12 @@
 
 ## 🧰 Development setup
 
+## 💖 Contributing
+
+Your help is greatly appreciated! Suggestions, bug reports and feature requests are best opened as [github issues]({{cookiecutter.url}}/issues). You are also very welcome to submit a [pull request]({{cookiecutter.url}}/pulls)!
+
+Bug reports and pull requests are credited with the help of the [allcontributors bot](https://allcontributors.org/).
+
 <!-- ## ✨ Contributors -->
 <!--  -->
 <!-- Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)): -->
