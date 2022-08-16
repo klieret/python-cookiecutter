@@ -1,11 +1,11 @@
 {
-   "project_name": "package",
-   "package_name": "package",
-   "description": "This is a package",
-   "url": "https://github.com/klieret/{{ cookiecutter.project_name }}",
-   "full_name": "Kilian Lieret",
-   "email": "kilian.lieret@posteo.de",
-   "maintainer": "{{cookiecutter.full_name}}",
-   "maintainer_email": "{{ cookiecutter.email}}",
-   "year": "{% now 'utc', '%Y' %}"
+  "project_name": "package",
+  "package_name": "package",
+  "description": "This is a package",
+  "url": "https://github.com/klieret/{{ cookiecutter.project_name }}",
+  "full_name": "Kilian Lieret",
+  "email": "kilian.lieret@posteo.de",
+  "maintainer": "{{cookiecutter.full_name}}",
+  "maintainer_email": "{{ cookiecutter.email}}",
+  "year": "{% now 'utc', '%Y' %}"
 }

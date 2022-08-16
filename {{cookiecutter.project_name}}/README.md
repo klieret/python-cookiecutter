@@ -4,6 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- [![Documentation Status](https://readthedocs.org/projects/{{cookiecutter.project_name}}/badge/?version=latest)](https://{{cookiecutter.project_name}}.readthedocs.io/) -->
 <!-- [![Pypi status](https://badge.fury.io/py/{{cookiecutter.project_name}}.svg)](https://pypi.org/project/{{cookiecutter.project_name}}/) -->
+
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/klieret/{{cookiecutter.project_name}}/main.svg)](https://results.pre-commit.ci/latest/github/klieret/{{cookiecutter.project_name}}/main)
 [![gh actions](https://github.com/{{cookiecutter.project_name}}/actions/workflows/test.yaml/badge.svg)]({{cookiecutter.url}}/actions)
 [![Coveralls](https://coveralls.io/repos/github/klieret/{{cookiecutter.project_name}}/badge.svg?branch=main)](https://coveralls.io/github/klieret/{{cookiecutter.project_name}}?branch=main)
@@ -37,6 +38,7 @@ Bug reports and pull requests are credited with the help of the [allcontributors
 <!-- markdownlint-disable -->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!--  -->
 <!-- This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! -->
