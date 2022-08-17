@@ -11,8 +11,8 @@ repos:
       - id: check-case-conflict
       - id: check-merge-conflict
       - id: detect-private-key
-        exclude: '.*\.ipynb'
       - id: end-of-file-fixer
+        exclude: '.*\.ipynb'
       - id: trailing-whitespace
   - repo: https://github.com/pycqa/isort
     rev: 5.10.1
