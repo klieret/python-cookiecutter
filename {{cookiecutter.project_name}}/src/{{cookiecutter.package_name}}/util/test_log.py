@@ -1,8 +1,7 @@
 from __future__ import annotations
 
 import logging
-
-from {{cookiecutter.package_name}}.util.log import logger
+from {{cookiecutter.package_name}}.util.log import logger, get_logger
 
 
 def test_logger():
