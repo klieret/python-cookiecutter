@@ -7,6 +7,7 @@
 
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/klieret/{{cookiecutter.project_name}}/main.svg)](https://results.pre-commit.ci/latest/github/klieret/{{cookiecutter.project_name}}/main)
 [![gh actions](https://github.com/{{cookiecutter.project_name}}/actions/workflows/test.yaml/badge.svg)]({{cookiecutter.url}}/actions)
+[![link checker](https://github.com/{{cookiecutter.project_name}}/actions/workflows/check-links.yaml/badge.svg)]({{cookiecutter.url}}/actions)
 [![Coveralls](https://coveralls.io/repos/github/klieret/{{cookiecutter.project_name}}/badge.svg?branch=main)](https://coveralls.io/github/klieret/{{cookiecutter.project_name}}?branch=main)
 [![gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev)
 [![License](https://img.shields.io/github/license/klieret/{{cookiecutter.project_name}})]({{cookiecutter.url}}/blob/master/LICENSE.txt)
