@@ -13,6 +13,7 @@ python projects using `setuptools`.
 - Pre-commit hooks, including `codespell`, `mypy`, `black`, `flake8` and others
 - Pre-configured logger in `util` subpackage
 - Readme (including badges), license, changelog
+- Link checker for all markdown files
 
 ## 🔥 Use it
 
