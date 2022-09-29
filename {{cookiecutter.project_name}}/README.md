@@ -24,6 +24,11 @@
 
 ## 🧰 Development setup
 
+```bash
+pip3 install pre-commit
+pre-commit install
+```
+
 ## 💖 Contributing
 
 Your help is greatly appreciated! Suggestions, bug reports and feature requests are best opened as [github issues]({{cookiecutter.url}}/issues). You are also very welcome to submit a [pull request]({{cookiecutter.url}}/pulls)!
