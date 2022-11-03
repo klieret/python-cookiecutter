@@ -13,7 +13,7 @@ author = "{{cookiecutter.full_name}}"
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["sphinx_click", "sphinx.ext.napoleon"]
+extensions = ["sphinx.ext.napoleon"]
 
 extensions.append("autoapi.extension")
 
