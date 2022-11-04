@@ -6,7 +6,7 @@
 <!-- [![Pypi status](https://badge.fury.io/py/{{cookiecutter.project_name}}.svg)](https://pypi.org/project/{{cookiecutter.project_name}}/) -->
 
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/klieret/{{cookiecutter.project_name}}/main.svg)](https://results.pre-commit.ci/latest/github/klieret/{{cookiecutter.project_name}}/main)
-[![gh actions](https://github.com/klieret/{{cookiecutter.project_name}}/actions/workflows/test.yaml/badge.svg)]({{cookiecutter.url}}/actions)
+[![gh actions](https://github.com/klieret/{{cookiecutter.project_name}}/actions/workflows/test.yaml/badge.svg)]({{cookiecutter.url}}/actions/workflows/test.yaml)
 [![link checker](https://github.com/klieret/{{cookiecutter.project_name}}/actions/workflows/check-links.yaml/badge.svg)]({{cookiecutter.url}}/actions)
 [![codecov](https://codecov.io/github/klieret/{{cookiecutter.project_name}}/branch/main/graph/badge.svg?token=6MQZ4LODE5)](https://codecov.io/github/klieret/{{cookiecutter.project_name}})
 [![gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev)
