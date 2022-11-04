@@ -20,6 +20,7 @@ extensions.append("autoapi.extension")
 autoapi_type = "python"
 autoapi_dirs = ["../../src/{{cookiecutter.package_name}}"]
 autoapi_ignore = ["*/test_*.py"]
+autoapi_python_class_content = "init"
 
 templates_path = ["_templates"]
 exclude_patterns = []
