@@ -7,5 +7,6 @@
   "email": "kilian.lieret@posteo.de",
   "maintainer": "{{cookiecutter.full_name}}",
   "maintainer_email": "{{ cookiecutter.email}}",
-  "year": "{% now 'utc', '%Y' %}"
+  "year": "{% now 'utc', '%Y' %}",
+  "_copy_without_render": ["*.css"]
 }
