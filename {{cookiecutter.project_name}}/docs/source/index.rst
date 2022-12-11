@@ -5,6 +5,8 @@ Welcome to {{cookiecutter.project_name}} documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   readme
+
 
 Indices and tables
 ==================
