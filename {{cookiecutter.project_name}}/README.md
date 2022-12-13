@@ -1,3 +1,5 @@
+<div align="center">
+
 # {{cookiecutter.project_name}}
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -13,6 +15,8 @@
 [![License](https://img.shields.io/github/license/klieret/{{cookiecutter.project_name}})]({{cookiecutter.url}}/blob/master/LICENSE.txt)
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 [![PR welcome](https://img.shields.io/badge/PR-Welcome-%23FF8300.svg)](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
+
+</div>
 
 ## 📝 Description
 
@@ -31,7 +35,7 @@ pre-commit install
 
 ## 💖 Contributing
 
-Your help is greatly appreciated! Suggestions, bug reports and feature requests are best opened as [github issues]({{cookiecutter.url}}/issues). You are also very welcome to submit a [pull request]({{cookiecutter.url}}/pulls)!
+Your help is greatly appreciated! Suggestions, bug reports and feature requests are best opened as [github issues][github-issues]. You are also very welcome to submit a [pull request][pulls]!
 
 Bug reports and pull requests are credited with the help of the [allcontributors bot](https://allcontributors.org/).
 
@@ -48,3 +52,6 @@ Bug reports and pull requests are credited with the help of the [allcontributors
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <!--  -->
 <!-- This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! -->
+
+[github-issues]: {{cookiecutter.url}}/issues
+[pulls]: {{cookiecutter.url}}/pulls
