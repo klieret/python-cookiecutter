@@ -32,3 +32,4 @@ jobs:
           password: ${{ secrets.pypi_password }}
           repository_url: https://pypi.org/legacy/
           verbose: true
+{% endraw -%}
