@@ -7,12 +7,12 @@
 <!-- [![Documentation Status](https://readthedocs.org/projects/{{cookiecutter.project_name}}/badge/?version=latest)](https://{{cookiecutter.project_name}}.readthedocs.io/) -->
 <!-- [![Pypi status](https://badge.fury.io/py/{{cookiecutter.project_name}}.svg)](https://pypi.org/project/{{cookiecutter.project_name}}/) -->
 
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/klieret/{{cookiecutter.project_name}}/main.svg)](https://results.pre-commit.ci/latest/github/klieret/{{cookiecutter.project_name}}/main)
-[![gh actions](https://github.com/klieret/{{cookiecutter.project_name}}/actions/workflows/test.yaml/badge.svg)]({{cookiecutter.url}}/actions/workflows/test.yaml)
-[![link checker](https://github.com/klieret/{{cookiecutter.project_name}}/actions/workflows/check-links.yaml/badge.svg)]({{cookiecutter.url}}/actions)
-[![codecov](https://codecov.io/github/klieret/{{cookiecutter.project_name}}/branch/main/graph/badge.svg?token=6MQZ4LODE5)](https://codecov.io/github/klieret/{{cookiecutter.project_name}})
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/{{cookiecutter.user}}/{{cookiecutter.project_name}}/main.svg)](https://results.pre-commit.ci/latest/github/{{cookiecutter.user}}/{{cookiecutter.project_name}}/main)
+[![gh actions]({{ cookiecutter.url }}/actions/workflows/test.yaml/badge.svg)]({{cookiecutter.url}}/actions/workflows/test.yaml)
+[![link checker]({{ cookiecutter.url }}/actions/workflows/check-links.yaml/badge.svg)]({{cookiecutter.url}}/actions)
+[![codecov](https://codecov.io/github/{{cookiecutter.user}}/{{cookiecutter.project_name}}/branch/main/graph/badge.svg?token=6MQZ4LODE5)](https://codecov.io/github/{{cookiecutter.user}}/{{cookiecutter.project_name}})
 [![gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev)
-[![License](https://img.shields.io/github/license/klieret/{{cookiecutter.project_name}})]({{cookiecutter.url}}/blob/master/LICENSE.txt)
+[![License](https://img.shields.io/github/license/{{cookiecutter.user}}/{{cookiecutter.project_name}})]({{cookiecutter.url}}/blob/master/LICENSE.txt)
 [![Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
 [![PR welcome](https://img.shields.io/badge/PR-Welcome-%23FF8300.svg)](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 
