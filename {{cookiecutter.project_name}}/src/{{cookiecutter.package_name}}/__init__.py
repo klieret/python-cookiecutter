@@ -6,4 +6,4 @@ except ModuleNotFoundError:
     from importlib_metadata import version  # type: ignore
 
 
-__version__ = version('{{cookiecutter.project_name}}')
+__version__ = version('{{cookiecutter.package_name}}')
