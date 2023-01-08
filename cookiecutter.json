@@ -3,7 +3,7 @@
   "package_name": "package",
   "description": "This is a package",
   "user": "klieret",
-  "url": "https://github.com/{cookiecutter.user}}/{{ cookiecutter.project_name }}",
+  "url": "https://github.com/{{cookiecutter.user}}/{{ cookiecutter.project_name }}",
   "full_name": "Kilian Lieret",
   "email": "kilian.lieret@posteo.de",
   "maintainer": "{{cookiecutter.full_name}}",
