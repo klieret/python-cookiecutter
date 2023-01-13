@@ -11,6 +11,7 @@ from pathlib import Path
 project = "{{cookiecutter.project_name}}"
 copyright = "{{cookiecutter.year}}, {{cookiecutter.full_name}}"
 author = "{{cookiecutter.full_name}}"
+html_title = "{{cookiecutter.project_name}}"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
