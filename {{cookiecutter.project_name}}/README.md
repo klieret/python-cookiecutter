@@ -9,7 +9,7 @@
 
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/{{cookiecutter.user}}/{{cookiecutter.project_name}}/main.svg)](https://results.pre-commit.ci/latest/github/{{cookiecutter.user}}/{{cookiecutter.project_name}}/main)
 [![gh actions]({{ cookiecutter.url }}/actions/workflows/test.yaml/badge.svg)]({{cookiecutter.url}}/actions/workflows/test.yaml)
-[![link checker]({{ cookiecutter.url }}/actions/workflows/check-links.yaml/badge.svg)]({{cookiecutter.url}}/actions)
+[![link checker]({{ cookiecutter.url }}/actions/workflows/check-links.yaml/badge.svg)]({{cookiecutter.url}}/actions/workflows/check-links.yaml)
 [![codecov](https://codecov.io/github/{{cookiecutter.user}}/{{cookiecutter.project_name}}/branch/main/graph/badge.svg?token=6MQZ4LODE5)](https://codecov.io/github/{{cookiecutter.user}}/{{cookiecutter.project_name}})
 [![gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev)
 [![License](https://img.shields.io/github/license/{{cookiecutter.user}}/{{cookiecutter.project_name}})]({{cookiecutter.url}}/blob/master/LICENSE.txt)
